@@ -1,0 +1,30 @@
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.csproj.AssemblyReference.cache
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.AssemblyInfoInputs.cache
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.AssemblyInfo.cs
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.csproj.CoreCompileInputs.cache
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.exe
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.deps.json
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.runtimeconfig.json
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.dll
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.pdb
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.dll
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\refint\CoreCSharpFeatures.dll
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.pdb
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.genruntimeconfig.cache
+C:\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\ref\CoreCSharpFeatures.dll
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.exe
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.deps.json
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.runtimeconfig.json
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.dll
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.pdb
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.csproj.AssemblyReference.cache
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.AssemblyInfoInputs.cache
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.AssemblyInfo.cs
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.csproj.CoreCompileInputs.cache
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.dll
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\refint\CoreCSharpFeatures.dll
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.pdb
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.genruntimeconfig.cache
+G:\PROG\C# kurs\CSharpOOPDev\Student\Student-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\ref\CoreCSharpFeatures.dll

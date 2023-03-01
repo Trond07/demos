@@ -1,0 +1,15 @@
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\bin\Debug\net6.0\DemoFunctions.exe
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\bin\Debug\net6.0\DemoFunctions.deps.json
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\bin\Debug\net6.0\DemoFunctions.runtimeconfig.json
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\bin\Debug\net6.0\DemoFunctions.dll
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\bin\Debug\net6.0\DemoFunctions.pdb
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\obj\Debug\net6.0\DemoFunctions.csproj.AssemblyReference.cache
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\obj\Debug\net6.0\DemoFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\obj\Debug\net6.0\DemoFunctions.AssemblyInfoInputs.cache
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\obj\Debug\net6.0\DemoFunctions.AssemblyInfo.cs
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\obj\Debug\net6.0\DemoFunctions.csproj.CoreCompileInputs.cache
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\obj\Debug\net6.0\DemoFunctions.dll
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\obj\Debug\net6.0\refint\DemoFunctions.dll
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\obj\Debug\net6.0\DemoFunctions.pdb
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\obj\Debug\net6.0\DemoFunctions.genruntimeconfig.cache
+C:\CSharpOOPDev\Demos\Demos-06-Functions\DemoFunctions\DemoFunctions\obj\Debug\net6.0\ref\DemoFunctions.dll

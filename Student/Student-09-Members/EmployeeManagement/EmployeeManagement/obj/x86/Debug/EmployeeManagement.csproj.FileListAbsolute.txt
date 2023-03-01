@@ -1,0 +1,17 @@
+C:\CSharpDev\Solutions\Solutions-03-Types\EmployeeManagement\EmployeeManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharpDev\Solutions\Solutions-03-Types\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\CSharpDev\Solutions\Solutions-03-Types\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\CSharpDev\Solutions\Solutions-03-Types\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.exe
+C:\CSharpDev\Solutions\Solutions-03-Types\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.pdb
+C:\CSharpDev\Solutions\Solutions-04-Members\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.exe
+C:\CSharpDev\Solutions\Solutions-04-Members\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.pdb
+C:\CSharpDev\Solutions\Solutions-04-Members\EmployeeManagement\EmployeeManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharpDev\Solutions\Solutions-04-Members\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\CSharpDev\Solutions\Solutions-04-Members\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\CSharpOOPDev\Solutions\Solutions-09-Members\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\CSharpOOPDev\Solutions\Solutions-09-Members\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\CSharpOOPDev\Solutions\Solutions-09-Members\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\CSharpOOPDev\Solutions\Solutions-09-Members\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\CSharpOOPDev\Solutions\Solutions-09-Members\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\CSharpOOPDev\Solutions\Solutions-09-Members\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.exe
+C:\CSharpOOPDev\Solutions\Solutions-09-Members\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.pdb

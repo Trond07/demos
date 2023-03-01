@@ -1,0 +1,3 @@
+﻿Console.WriteLine("Hello world");
+
+// Add your code here to test the Employee class...

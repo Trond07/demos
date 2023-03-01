@@ -1,0 +1,15 @@
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.exe
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.deps.json
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.runtimeconfig.json
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.dll
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.pdb
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.csproj.AssemblyReference.cache
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.AssemblyInfoInputs.cache
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.AssemblyInfo.cs
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.csproj.CoreCompileInputs.cache
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.dll
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\obj\Debug\net6.0\refint\DemoInterfaces.dll
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.pdb
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.genruntimeconfig.cache
+C:\CSharpOOPDev\Demos\Demos-12-Interfaces\DemoInterfaces\DemoInterfaces\obj\Debug\net6.0\ref\DemoInterfaces.dll

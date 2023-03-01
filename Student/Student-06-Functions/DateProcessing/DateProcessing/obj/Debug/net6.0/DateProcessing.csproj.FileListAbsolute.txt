@@ -1,0 +1,15 @@
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\bin\Debug\net6.0\DateProcessing.exe
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\bin\Debug\net6.0\DateProcessing.deps.json
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\bin\Debug\net6.0\DateProcessing.runtimeconfig.json
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\bin\Debug\net6.0\DateProcessing.dll
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\bin\Debug\net6.0\DateProcessing.pdb
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.csproj.AssemblyReference.cache
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.AssemblyInfoInputs.cache
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.AssemblyInfo.cs
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.csproj.CoreCompileInputs.cache
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.dll
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\obj\Debug\net6.0\refint\DateProcessing.dll
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.pdb
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.genruntimeconfig.cache
+C:\CSharpOOPDev\Student\Student-06-Functions\DateProcessing\DateProcessing\obj\Debug\net6.0\ref\DateProcessing.dll

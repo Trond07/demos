@@ -1,0 +1,15 @@
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\bin\Debug\net6.0\DemoTypes.exe
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\bin\Debug\net6.0\DemoTypes.deps.json
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\bin\Debug\net6.0\DemoTypes.runtimeconfig.json
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\bin\Debug\net6.0\DemoTypes.dll
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\bin\Debug\net6.0\DemoTypes.pdb
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\obj\Debug\net6.0\DemoTypes.csproj.AssemblyReference.cache
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\obj\Debug\net6.0\DemoTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\obj\Debug\net6.0\DemoTypes.AssemblyInfoInputs.cache
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\obj\Debug\net6.0\DemoTypes.AssemblyInfo.cs
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\obj\Debug\net6.0\DemoTypes.csproj.CoreCompileInputs.cache
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\obj\Debug\net6.0\DemoTypes.dll
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\obj\Debug\net6.0\refint\DemoTypes.dll
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\obj\Debug\net6.0\DemoTypes.pdb
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\obj\Debug\net6.0\DemoTypes.genruntimeconfig.cache
+C:\CSharpOOPDev\Demos\Demos-08-Types\DemoTypes\DemoTypes\obj\Debug\net6.0\ref\DemoTypes.dll

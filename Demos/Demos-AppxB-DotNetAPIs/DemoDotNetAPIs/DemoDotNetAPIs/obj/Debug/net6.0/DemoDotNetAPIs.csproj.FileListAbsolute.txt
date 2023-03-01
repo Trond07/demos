@@ -1,0 +1,15 @@
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\bin\Debug\net6.0\DemoDotNetAPIs.exe
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\bin\Debug\net6.0\DemoDotNetAPIs.deps.json
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\bin\Debug\net6.0\DemoDotNetAPIs.runtimeconfig.json
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\bin\Debug\net6.0\DemoDotNetAPIs.dll
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\bin\Debug\net6.0\DemoDotNetAPIs.pdb
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\obj\Debug\net6.0\DemoDotNetAPIs.csproj.AssemblyReference.cache
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\obj\Debug\net6.0\DemoDotNetAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\obj\Debug\net6.0\DemoDotNetAPIs.AssemblyInfoInputs.cache
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\obj\Debug\net6.0\DemoDotNetAPIs.AssemblyInfo.cs
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\obj\Debug\net6.0\DemoDotNetAPIs.csproj.CoreCompileInputs.cache
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\obj\Debug\net6.0\DemoDotNetAPIs.dll
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\obj\Debug\net6.0\refint\DemoDotNetAPIs.dll
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\obj\Debug\net6.0\DemoDotNetAPIs.pdb
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\obj\Debug\net6.0\DemoDotNetAPIs.genruntimeconfig.cache
+C:\CSharpDev\Demos\Demos-11-DotNetAPIs\DemoDotNetAPIs\DemoDotNetAPIs\obj\Debug\net6.0\ref\DemoDotNetAPIs.dll

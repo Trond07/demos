@@ -1,0 +1,15 @@
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\bin\Debug\net6.0\DemoMembers.exe
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\bin\Debug\net6.0\DemoMembers.deps.json
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\bin\Debug\net6.0\DemoMembers.runtimeconfig.json
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\bin\Debug\net6.0\DemoMembers.dll
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\bin\Debug\net6.0\DemoMembers.pdb
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\obj\Debug\net6.0\DemoMembers.csproj.AssemblyReference.cache
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\obj\Debug\net6.0\DemoMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\obj\Debug\net6.0\DemoMembers.AssemblyInfoInputs.cache
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\obj\Debug\net6.0\DemoMembers.AssemblyInfo.cs
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\obj\Debug\net6.0\DemoMembers.csproj.CoreCompileInputs.cache
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\obj\Debug\net6.0\DemoMembers.dll
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\obj\Debug\net6.0\refint\DemoMembers.dll
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\obj\Debug\net6.0\DemoMembers.pdb
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\obj\Debug\net6.0\DemoMembers.genruntimeconfig.cache
+C:\CSharpOOPDev\Demos\Demos-09-Members\DemoMembers\DemoMembers\obj\Debug\net6.0\ref\DemoMembers.dll

@@ -1,0 +1,15 @@
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.exe
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.deps.json
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.runtimeconfig.json
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.dll
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.pdb
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.csproj.AssemblyReference.cache
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.AssemblyInfoInputs.cache
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.AssemblyInfo.cs
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.csproj.CoreCompileInputs.cache
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.dll
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\obj\Debug\net6.0\refint\Lambdas.dll
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.pdb
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.genruntimeconfig.cache
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\Lambdas\Lambdas\obj\Debug\net6.0\ref\Lambdas.dll

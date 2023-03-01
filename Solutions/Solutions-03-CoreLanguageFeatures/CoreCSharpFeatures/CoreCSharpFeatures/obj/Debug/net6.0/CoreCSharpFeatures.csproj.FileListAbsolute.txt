@@ -1,0 +1,15 @@
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.exe
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.deps.json
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.runtimeconfig.json
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.dll
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\bin\Debug\net6.0\CoreCSharpFeatures.pdb
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.csproj.AssemblyReference.cache
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.AssemblyInfoInputs.cache
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.AssemblyInfo.cs
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.csproj.CoreCompileInputs.cache
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.dll
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\refint\CoreCSharpFeatures.dll
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.pdb
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\CoreCSharpFeatures.genruntimeconfig.cache
+C:\CSharpOOPDev\Solutions\Solutions-03-CoreLanguageFeatures\CoreCSharpFeatures\CoreCSharpFeatures\obj\Debug\net6.0\ref\CoreCSharpFeatures.dll

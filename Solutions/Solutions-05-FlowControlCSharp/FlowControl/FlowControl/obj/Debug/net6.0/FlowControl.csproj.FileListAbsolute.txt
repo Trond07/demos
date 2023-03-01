@@ -1,0 +1,45 @@
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.exe
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.deps.json
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.runtimeconfig.json
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.dll
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.pdb
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.csproj.AssemblyReference.cache
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.AssemblyInfoInputs.cache
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.AssemblyInfo.cs
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.csproj.CoreCompileInputs.cache
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.dll
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\refint\FlowControl.dll
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.pdb
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.genruntimeconfig.cache
+C:\CSharpOOPDev\Student\Student-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\ref\FlowControl.dll
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.exe
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.deps.json
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.runtimeconfig.json
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.dll
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.pdb
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.csproj.AssemblyReference.cache
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.AssemblyInfoInputs.cache
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.AssemblyInfo.cs
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.csproj.CoreCompileInputs.cache
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.dll
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\refint\FlowControl.dll
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.pdb
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.genruntimeconfig.cache
+C:\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\ref\FlowControl.dll
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.exe
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.deps.json
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.runtimeconfig.json
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.dll
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.pdb
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.csproj.AssemblyReference.cache
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.AssemblyInfoInputs.cache
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.AssemblyInfo.cs
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.csproj.CoreCompileInputs.cache
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.dll
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\refint\FlowControl.dll
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.pdb
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.genruntimeconfig.cache
+G:\PROG\C# kurs\CSharpOOPDev\Solutions\Solutions-05-FlowControlCSharp\FlowControl\FlowControl\obj\Debug\net6.0\ref\FlowControl.dll

@@ -1,0 +1,15 @@
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\bin\Debug\net6.0\DemoApp1.exe
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\bin\Debug\net6.0\DemoApp1.deps.json
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\bin\Debug\net6.0\DemoApp1.runtimeconfig.json
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\bin\Debug\net6.0\DemoApp1.dll
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\bin\Debug\net6.0\DemoApp1.pdb
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\obj\Debug\net6.0\DemoApp1.csproj.AssemblyReference.cache
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\obj\Debug\net6.0\DemoApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\obj\Debug\net6.0\DemoApp1.AssemblyInfoInputs.cache
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\obj\Debug\net6.0\DemoApp1.AssemblyInfo.cs
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\obj\Debug\net6.0\DemoApp1.csproj.CoreCompileInputs.cache
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\obj\Debug\net6.0\DemoApp1.dll
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\obj\Debug\net6.0\refint\DemoApp1.dll
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\obj\Debug\net6.0\DemoApp1.pdb
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\obj\Debug\net6.0\DemoApp1.genruntimeconfig.cache
+C:\CSharpDev\Demos\Demos-01-Introduction\DemoApp1\obj\Debug\net6.0\ref\DemoApp1.dll

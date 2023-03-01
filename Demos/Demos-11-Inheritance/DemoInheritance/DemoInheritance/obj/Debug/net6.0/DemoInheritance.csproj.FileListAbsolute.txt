@@ -1,0 +1,15 @@
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\bin\Debug\net6.0\DemoInheritance.exe
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\bin\Debug\net6.0\DemoInheritance.deps.json
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\bin\Debug\net6.0\DemoInheritance.runtimeconfig.json
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\bin\Debug\net6.0\DemoInheritance.dll
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\bin\Debug\net6.0\DemoInheritance.pdb
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\obj\Debug\net6.0\DemoInheritance.csproj.AssemblyReference.cache
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\obj\Debug\net6.0\DemoInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\obj\Debug\net6.0\DemoInheritance.AssemblyInfoInputs.cache
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\obj\Debug\net6.0\DemoInheritance.AssemblyInfo.cs
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\obj\Debug\net6.0\DemoInheritance.csproj.CoreCompileInputs.cache
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\obj\Debug\net6.0\DemoInheritance.dll
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\obj\Debug\net6.0\refint\DemoInheritance.dll
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\obj\Debug\net6.0\DemoInheritance.pdb
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\obj\Debug\net6.0\DemoInheritance.genruntimeconfig.cache
+C:\CSharpOOPDev\Demos\Demos-11-Inheritance\DemoInheritance\DemoInheritance\obj\Debug\net6.0\ref\DemoInheritance.dll

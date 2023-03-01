@@ -1,0 +1,15 @@
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\bin\Debug\net6.0\UsefulStandardDelegates.exe
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\bin\Debug\net6.0\UsefulStandardDelegates.deps.json
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\bin\Debug\net6.0\UsefulStandardDelegates.runtimeconfig.json
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\bin\Debug\net6.0\UsefulStandardDelegates.dll
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\bin\Debug\net6.0\UsefulStandardDelegates.pdb
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\obj\Debug\net6.0\UsefulStandardDelegates.csproj.AssemblyReference.cache
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\obj\Debug\net6.0\UsefulStandardDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\obj\Debug\net6.0\UsefulStandardDelegates.AssemblyInfoInputs.cache
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\obj\Debug\net6.0\UsefulStandardDelegates.AssemblyInfo.cs
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\obj\Debug\net6.0\UsefulStandardDelegates.csproj.CoreCompileInputs.cache
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\obj\Debug\net6.0\UsefulStandardDelegates.dll
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\obj\Debug\net6.0\refint\UsefulStandardDelegates.dll
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\obj\Debug\net6.0\UsefulStandardDelegates.pdb
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\obj\Debug\net6.0\UsefulStandardDelegates.genruntimeconfig.cache
+C:\CSharpDev\Demos\Demos-10-DelegatesLambdasEvents\UsefulStandardDelegates\UsefulStandardDelegates\obj\Debug\net6.0\ref\UsefulStandardDelegates.dll
